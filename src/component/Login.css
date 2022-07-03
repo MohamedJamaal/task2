@@ -1,0 +1,13 @@
+.mainForm {
+  margin: 50px;
+}
+
+.passInput {
+  margin-bottom: 20px;
+  width: 90%;
+}
+
+.nameInput {
+  margin-bottom: 20px;
+  width: 50%;
+}
